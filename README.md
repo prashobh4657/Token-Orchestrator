@@ -27,7 +27,7 @@ Design a server capable of generating, assigning, and managing API keys with spe
        "isBlocked" : "<true> / <false>", 
        "blockedAt" : "<blockedTime>", 
        "createdAt" : "<createdTime>" 
-     } / {}
+     }
      ```
 
 4. **Remove a Specific Key**
